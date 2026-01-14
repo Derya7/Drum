@@ -13,4 +13,4 @@ docker build -t drum-game .
 docker run -d -p 8080:80 drum-game
 
 # 🎮 How to Play
-Once it's running, just head over to http://localhost:8080 in your browser. Refresh the page to roll again.
+Once it's running, just head over to http://localhost:8080 in your browser.
